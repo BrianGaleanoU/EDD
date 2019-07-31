@@ -131,3 +131,4 @@ if __name__ == "__main__":
             carne = input("Ingrese el Carné: ")
             nodo = Nodo(nombre,carne)
             ls.modificar(carnemodificar,nodo)
+            
